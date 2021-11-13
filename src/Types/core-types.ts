@@ -30,3 +30,8 @@ console.log(truth);
 console.log(`typeof truth`, typeof truth);
 
 let lie: boolean = false;
+
+// any
+// any type accepts everything, weather it is bool, string, number, object etc...
+let lol: any = false;
+lol = "lol";
